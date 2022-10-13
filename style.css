@@ -1,0 +1,25 @@
+body
+{
+    color: aqua;
+    background-color: blueviolet;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 25px;
+    color: rgb(161, 1, 127);
+}
+
+#camera
+{
+    border: 2px dashed blue;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+    color: rgb(155, 6, 86);
+    font-size: 24px;
+}
